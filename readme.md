@@ -1,5 +1,6 @@
 hello-git:
 	1:从github中克隆项目到本地  git->git bash here
+		git clone git@github.com:leichao616/hello-git.git
 	2:添加文件或者文件夹上传至github
 		git add .			（注：别忘记后面的.，此操作是把Test文件夹下面的文件都添加进来）
 
